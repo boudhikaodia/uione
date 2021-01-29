@@ -5,7 +5,6 @@ categories:
 title: ABC
 author: CDE
 image: ''
-published: false
 
 ---
 HI This si testing
